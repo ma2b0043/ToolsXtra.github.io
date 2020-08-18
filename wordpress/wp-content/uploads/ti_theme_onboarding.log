@@ -1,0 +1,13 @@
+[24/Jun/2020:20:48:14] (I): WordPress Instance Info:
+[24/Jun/2020:20:48:14] (I): Home URL : http://localhost/wordpress
+[24/Jun/2020:20:48:14] (I): Site URL : http://localhost/wordpress
+[24/Jun/2020:20:48:14] (I): WordPress Version : 5.4.2
+[24/Jun/2020:20:48:14] (I): Onboarding Version : 1.0.1
+[24/Jun/2020:20:48:14] (I): Multisite : No
+[24/Jun/2020:20:48:14] (I): Server Info : Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.3.18
+[24/Jun/2020:20:48:14] (I): PHP Version : 7.3.18
+[24/Jun/2020:20:48:14] (I): HTTPS : No
+[24/Jun/2020:20:48:14] (I): PHP Max Execution Time : 120
+[24/Jun/2020:20:48:14] (I): PHP Max Input Vars : 1000
+[24/Jun/2020:20:48:14] (I): Max Upload Size : 41943040
+[24/Jun/2020:20:48:14] (I): Plugins:

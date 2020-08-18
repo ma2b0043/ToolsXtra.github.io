@@ -1,0 +1,53 @@
+
+---Downloaded files---
+The import files for: Classic Shop were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2020/06/demo-content-import-file_2020-06-25__12-56-01.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2020/06/demo-widgets-import-file_2020-06-25__12-56-01.json
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/2020/06/demo-customizer-import-file_2020-06-25__12-56-01.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Default Sidebar : 
+
+Recent Posts - Popular readings - Widget already exists
+Recent Comments - Community says - Widget already exists
+Products - Our products - Widget already exists
+
+Topbar Sidebar : 
+
+Cart - No Title - Widget already exists
+Search - No Title - Widget already exists
+
+Header Sidebar : 
+
+YITH Proteo Account Widget - No Title - Widget already exists
+Cart - No Title - Widget already exists
+Search - No Title - Widget already exists
+
+Footer Sidebar 1 (multiple columns can be configured) : 
+
+Navigation Menu - Customer service - Widget already exists
+Navigation Menu - Search for categories - Widget already exists
+Navigation Menu - Internal pages - Widget already exists
+Text - Subscribe our newsletter - Widget already exists
+
+Footer Sidebar 2 (multiple columns can be configured) : 
+
+Social Networks - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Shop sidebar : 
+
+Recent Product Reviews - Recent reviews - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

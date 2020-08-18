@@ -1,0 +1,181 @@
+
+---Downloaded files---
+The import files for: Classic Shop were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2020/06/demo-content-import-file_2020-06-25__12-39-41.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2020/06/demo-widgets-import-file_2020-06-25__12-39-41.json
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/2020/06/demo-customizer-import-file_2020-06-25__12-39-41.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-data
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Recent Posts - Popular readings - Imported
+Recent Comments - Community says - Imported
+Products - Our products - Imported
+
+Topbar Sidebar : 
+
+Cart - No Title - Imported
+Search - No Title - Imported
+
+Header Sidebar : 
+
+YITH Proteo Account Widget - No Title - Imported
+Cart - No Title - Imported
+Search - No Title - Imported
+
+Footer Sidebar 1 (multiple columns can be configured) : 
+
+Navigation Menu - Customer service - Imported
+Navigation Menu - Search for categories - Imported
+Navigation Menu - Internal pages - Imported
+Text - Subscribe our newsletter - Imported
+
+Footer Sidebar 2 (multiple columns can be configured) : 
+
+Social Networks - No Title - Imported
+Text - No Title - Imported
+
+Shop sidebar : 
+
+Recent Product Reviews - Recent reviews - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
